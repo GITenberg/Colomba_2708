@@ -1,0 +1,38 @@
+_repo: Colomba_2708
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Loyd, Mary, Lady
+    aliases:
+    - Loyd, Lady Mary Sophia (Hely-Hutchinson)
+    - Lloyd, Mary, Lady
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '921'
+    url: http://www.gutenberg.org/2009/agents/921
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+description: ''
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Corsica (France) -- Social life and customs -- Fiction'
+- GITenberg
+title: Colomba
+url: http://www.gutenberg.org/ebooks/2708
