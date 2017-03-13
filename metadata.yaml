@@ -1,5 +1,5 @@
 _repo: Colomba_2708
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Loyd, Mary, Lady
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '921'
     url: http://www.gutenberg.org/2009/agents/921
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/920
     wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2708#Colomba
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
 identifiers:
